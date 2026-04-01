@@ -12,5 +12,5 @@ I'm a junior full-stack developer based in Morocco, currently training at Zone01
 * Recently built **01Blog**, a full-stack social blogging platform using Java Spring Boot and Angular.
 
 ### 📫 How to reach me
-* [LinkedIn](link-to-your-linkedin-profile)
+* [LinkedIn](https://www.linkedin.com/in/yassine-omari-3073b032a)
 * Email: yassinomari75@gmail.com
